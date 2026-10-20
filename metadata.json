@@ -1,9 +1,15 @@
 {
-  "client_id": "https://t14-cimd.example.org/metadata.json",
-  "client_name": "T14 Research App",
-  "client_uri": "https://t14-cimd.example.org",
-  "redirect_uris": ["https://t14-cimd.example.org/oauth/callback"],
-  "grant_types": ["authorization_code"],
-  "response_types": ["code"],
-  "token_endpoint_auth_method": "none"
+ "client_id": "https://tarekaitahmed.me/cimd-lab/metadata.json",
+ "client_name": "T14 Research App",
+ "client_uri": "https://tarekaitahmed.me/cimd-lab/",
+ "redirect_uris": [
+  "https://webhook.site/5538c530-2842-454b-973e-e69a6f9bd657/cb"
+ ],
+ "grant_types": [
+  "authorization_code"
+ ],
+ "response_types": [
+  "code"
+ ],
+ "token_endpoint_auth_method": "none"
 }
