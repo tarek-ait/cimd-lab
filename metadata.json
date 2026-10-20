@@ -1,9 +1,9 @@
 {
- "client_id": "https://tarekaitahmed.me/cimd-lab/metadata.json",
+ "client_id": "https://raw.githack.com/tarek-ait/cimd-lab/master/metadata.json",
  "client_name": "T14 Research App",
- "client_uri": "https://tarekaitahmed.me/cimd-lab/",
+ "client_uri": "https://raw.githack.com/tarek-ait/cimd-lab/master/",
  "redirect_uris": [
-  "https://webhook.site/5538c530-2842-454b-973e-e69a6f9bd657/cb"
+  "https://raw.githack.com/tarek-ait/cimd-lab/master/cb/index.html"
  ],
  "grant_types": [
   "authorization_code"
