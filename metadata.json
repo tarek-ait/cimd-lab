@@ -1,9 +1,9 @@
 {
- "client_id": "https://raw.githack.com/tarek-ait/cimd-lab/master/metadata.json",
- "client_name": "T14 Research App",
- "client_uri": "https://raw.githack.com/tarek-ait/cimd-lab/master/",
+ "client_id": "https://raw.githack.com/tarek-ait/cimd-lab/t14v1/metadata.json",
+ "client_name": "T14 Mismatch Doc",
+ "client_uri": "https://raw.githack.com/tarek-ait/cimd-lab/t14v3/",
  "redirect_uris": [
-  "https://raw.githack.com/tarek-ait/cimd-lab/master/cb/index.html"
+  "https://raw.githack.com/tarek-ait/cimd-lab/t14v3/cb/index.html"
  ],
  "grant_types": [
   "authorization_code"
